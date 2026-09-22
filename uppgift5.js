@@ -1,3 +1,6 @@
+//Kolla om hur dom vill att arrayen skall skrivas ut
+
+
 meny = ["Pasta", "Pizza", "Hamburger", "Sushi", "Taco"]
 
 for (let i = 0; i<meny.length; i++){
