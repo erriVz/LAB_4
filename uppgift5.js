@@ -6,3 +6,9 @@ for (let i = 0; i<5; i++){
 
 console.log(meny[0]);
 console.log(meny[4]);
+
+meny.push("Pannkaka");
+meny.splice(0,1);
+for (let i = 0; i<5; i++){
+    console.log(meny[i])
+}
