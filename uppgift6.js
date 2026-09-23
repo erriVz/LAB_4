@@ -1,3 +1,6 @@
+//Funktioner
+//Program med en funktion som har två argument som räknar ut arean av en rektangel med givna parametrarna
+
 function rektangel_area(bredd, höjd){
     return bredd*höjd;
 }

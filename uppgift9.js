@@ -1,3 +1,6 @@
+//Sammanhängade program
+//Program med objekt i en array där sedan en funktion loopar arrayen och skriver ut i console informationen i varje objekt
+
 Hushåll = [
     {
         namn: "Victor",
@@ -23,7 +26,7 @@ function information(medlemmar){
         
         ärdjur = ""
 
-        if (medlemmar[i].familjetag === "Hund"){
+        if (medlemmar[i].familjetag === "Hund"){ //om .familjetag är lika med "hund" sätt ärdjur till "är". annars sätt ärdjur till "är inte"
             ärdjur = "är"
         }
         else {
@@ -33,4 +36,4 @@ function information(medlemmar){
     }
 }
 
-information(Hushåll)
+information(Hushåll) //Kallar funktionen med arrayen Hushåll

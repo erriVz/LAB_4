@@ -1,3 +1,6 @@
+//Objekt
+//Program som har ett objekt där en funktiontar sedan tar emot ett objekt och skriver ut iformationen från objektet
+
 bok = {
     titel: "The Last Wish",
     författare: "Andrzej Sapkowski",

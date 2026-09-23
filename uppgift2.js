@@ -1,3 +1,7 @@
+//Operationer och beräkningar
+//Program med två variabler som räknar total pris samt total pris + moms
+
+
 antal = 10
 pris = 5
 console.log("Pris:",pris,"kr");

@@ -1,4 +1,5 @@
-//Kolla om hur dom vill att arrayen skall skrivas ut
+//Arrayer
+//Program med en array som skrivs ut, skriver ut första och sista värdet i arrayen, lägger till ett värde i slutet, tar bort första och skriver ut den nya arrayen
 
 
 meny = ["Pasta", "Pizza", "Hamburger", "Sushi", "Taco"]
