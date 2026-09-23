@@ -4,10 +4,10 @@ bok = {
     utgivningsår: 1993
 }
 
-function om_bok(bok){
-    console.log("Titel: " + bok.titel);
-    console.log("Författare: " + bok.författare);
-    console.log("Utgivingsår: " + bok.utgivningsår);    
+function om_bok(boken){
+    console.log("Titel: " + boken.titel);
+    console.log("Författare: " + boken.författare);
+    console.log("Utgivingsår: " + boken.utgivningsår);    
 }
 
 om_bok(bok)
