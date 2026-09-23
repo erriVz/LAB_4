@@ -1,4 +1,5 @@
-//Program som skriver ut i console information tagen från variablerna som finns
+//Varibler och datatyper
+// Program som skriver ut i console information tagen från variablerna som finns
 
 namn = "Victor"
 enamn = "Heras"
