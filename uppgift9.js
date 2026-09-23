@@ -2,12 +2,12 @@ Hushåll = [
     {
         namn: "Victor",
         ålder: 25,
-        familjetag: "Son"
+        familjetag: "Människa"
     },
     {
         namn: "Ricardo",
         ålder: 57,
-        familjetag: "Far"
+        familjetag: "Människa"
     },
     {
         namn: "Zeb",
@@ -15,3 +15,22 @@ Hushåll = [
         familjetag: "Hund"
     }
 ];
+
+
+function information(Hushåll){
+
+    for (let i=0; i<Hushåll.length; i++){
+        
+        ärdjur = ""
+
+        if (Hushåll[i].familjetag === "Hund"){
+            ärdjur = "är"
+        }
+        else {
+            ärdjur = "är inte"
+        }
+    console.log(Hushåll[i].namn + " är "+ Hushåll[i].ålder + " år gammal och " + ärdjur + " ett djur ")
+    }
+}
+
+information(Hushåll)
