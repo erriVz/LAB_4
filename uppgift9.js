@@ -17,19 +17,19 @@ Hushåll = [
 ];
 
 
-function information(Hushåll){
+function information(medlemmar){
 
-    for (let i=0; i<Hushåll.length; i++){
+    for (let i=0; i<medlemmar.length; i++){
         
         ärdjur = ""
 
-        if (Hushåll[i].familjetag === "Hund"){
+        if (medlemmar[i].familjetag === "Hund"){
             ärdjur = "är"
         }
         else {
             ärdjur = "är inte"
         }
-    console.log(Hushåll[i].namn + " är "+ Hushåll[i].ålder + " år gammal och " + ärdjur + " ett djur ")
+    console.log(medlemmar[i].namn + " är "+ medlemmar[i].ålder + " år gammal och " + ärdjur + " ett djur ")
     }
 }
 
