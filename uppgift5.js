@@ -1,8 +1,10 @@
 //Arrayer
 //Program med en array som skrivs ut, skriver ut första och sista värdet i arrayen, lägger till ett värde i slutet, tar bort första och skriver ut den nya arrayen
 
+"use strict";
 
-meny = ["Pasta", "Pizza", "Hamburger", "Sushi", "Taco"]
+
+let meny = ["Pasta", "Pizza", "Hamburger", "Sushi", "Taco"]
 
 for (let i = 0; i<meny.length; i++){
     console.log(meny[i])

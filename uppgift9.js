@@ -1,7 +1,9 @@
 //Sammanhängade program
 //Program med objekt i en array där sedan en funktion loopar arrayen och skriver ut i console informationen i varje objekt
 
-Hushåll = [
+"use strict";
+
+let Hushåll = [
     {
         namn: "Victor",
         ålder: 25,
@@ -24,7 +26,7 @@ function information(medlemmar){
 
     for (let i=0; i<medlemmar.length; i++){
         
-        ärdjur = ""
+        let ärdjur;
 
         if (medlemmar[i].familjetag === "Hund"){ //om .familjetag är lika med "hund" sätt ärdjur till "är". annars sätt ärdjur till "är inte"
             ärdjur = "är"
