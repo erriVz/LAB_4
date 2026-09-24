@@ -11,7 +11,7 @@ console.log(meny);
 console.log("Först i meny:",meny[0]);
 console.log("Sist i meny:",meny[4]);
 
-meny.push("Pannkaka");
-meny.splice(0,1);
+meny.push("Pannkaka");  //Lägger till pannkaka sist i arrayen meny
+meny.splice(0,1);       //Tar bort första elementet i arrayen
 
 console.log(meny);
