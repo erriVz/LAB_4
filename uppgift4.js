@@ -1,10 +1,10 @@
 //Loopar och vilkor
-//For loop som skrriver ut värdet 1 till 20
+//For loop som skriver ut alla jämna värden mellan 1-20
 
 "use strict";
 
 for (let i = 1; i <= 20; i++){
-    if (i % 2 == 0) {
+    if (i % 2 == 0) {   //om värdet är jämnt
         console.log(i);
     }
 
