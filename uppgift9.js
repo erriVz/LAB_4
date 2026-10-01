@@ -1,4 +1,4 @@
-//Sammanhängade program
+//Sammanhängade program, uppgift 9 av Victor H, 2026
 //Program med objekt i en array där sedan en funktion loopar arrayen och skriver ut i console informationen i varje objekt
 
 "use strict";
