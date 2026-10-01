@@ -1,4 +1,4 @@
-//Arrayer
+//Arrayer, uppgift 5 av Victor H, 2026
 //Program med en array som skrivs ut, skriver ut första och sista värdet i arrayen, lägger till ett värde i slutet, tar bort första och skriver ut den nya arrayen
 
 "use strict";
