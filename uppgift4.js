@@ -1,4 +1,4 @@
-//Loopar och vilkor
+//Loopar och vilkor, uppgift 4 av Victor H, 2026
 //For loop som skriver ut alla jämna värden mellan 1-20
 
 "use strict";
