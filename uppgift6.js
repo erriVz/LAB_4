@@ -1,4 +1,4 @@
-//Funktioner
+//Funktioner, uppgift 6 av Victor H, 2026
 //Program med en funktion som har två argument som räknar ut arean av en rektangel med givna parametrarna
 
 "use strict";
