@@ -1,4 +1,4 @@
-//Arrayer och funktioner
+//Arrayer och funktioner, uppgift 6 av Victor H, 2026
 //Program som innehåller en array men tal som sedan räknar ut totala summan av alla värden i arrayen och skriver ut i console
 
 "use strict";
