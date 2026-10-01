@@ -1,4 +1,4 @@
-//Operationer och beräkningar
+//Operationer och beräkningar, uppgift 2 av Victor H, 2026
 //Program med två variabler som räknar total pris samt total pris + moms
 
 "use strict";
