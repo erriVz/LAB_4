@@ -1,5 +1,5 @@
-//Objekt
-//Program som har ett objekt där en funktiontar sedan tar emot ett objekt och skriver ut iformationen från objektet
+//Objekt, uppgift 8 av Victor H, 2026
+//Program som har ett objekt där en funktion sedan tar emot ett objekt och skriver ut informationen från objektet
 
 "use strict";
 
@@ -15,4 +15,4 @@ function om_bok(boken){
     console.log("Utgivingsår: " + boken.utgivningsår);    
 }
 
-om_bok(bok)
+om_bok(bok) //function kallas med bok i 
